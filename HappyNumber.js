@@ -25,6 +25,7 @@
 
   /*
 
-
+  - Start with a number n.
+  
 
   */

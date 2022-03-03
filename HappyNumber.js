@@ -13,7 +13,7 @@
         temp = 0;
 
         while (n > 0) {
-            
+            temp += Math.pow(n % 10, 2);
           }
       }
   };

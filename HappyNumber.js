@@ -34,6 +34,7 @@
   - Add the square of the digit at n % 10 to the temporary variable.
   - Divide n by 10.
   - Set n to the temporary variable.
+  - Finally return true if n is equal to 1 and false otherwise.
   
 
   */

@@ -26,6 +26,7 @@
   /*
 
   - Start with a number n.
+  - Then with a map that keeps track of the numbers we’ve seen before.
   
 
   */

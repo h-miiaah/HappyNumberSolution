@@ -11,6 +11,10 @@
     while (n !== 1 && !map[n]) {
         map[n] = true;
         temp = 0;
+
+        while (n > 0) {
+            
+          }
       }
   };
   

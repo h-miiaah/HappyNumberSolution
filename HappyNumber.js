@@ -30,6 +30,7 @@
   - Then with a temporary variable that keeps track of the sum of the squares of the digits of n.
   - Loop while n is not equal to 1 and n is not in the map.
   - Add n to the map.
+  - Loop while n is greater than 0.
   
 
   */

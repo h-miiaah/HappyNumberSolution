@@ -32,6 +32,7 @@
   - Add n to the map.
   - Loop while n is greater than 0.
   - Add the square of the digit at n % 10 to the temporary variable.
+  - Divide n by 10.
   
 
   */

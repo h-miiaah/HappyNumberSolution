@@ -31,6 +31,7 @@
   - Loop while n is not equal to 1 and n is not in the map.
   - Add n to the map.
   - Loop while n is greater than 0.
+  - Add the square of the digit at n % 10 to the temporary variable.
   
 
   */

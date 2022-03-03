@@ -3,6 +3,6 @@
  * @return {boolean}
  */
  var isHappy = function(n) {
-    
+    var map = {};
   };
   

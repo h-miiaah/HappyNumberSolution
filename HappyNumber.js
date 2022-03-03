@@ -9,7 +9,7 @@
     if (n < 1) return false;
 
     while (n !== 1 && !map[n]) {
-        
+        map[n] = true;
       }
   };
   

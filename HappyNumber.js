@@ -19,5 +19,6 @@
 
           n = temp;
       }
+      return n === 1;
   };
   

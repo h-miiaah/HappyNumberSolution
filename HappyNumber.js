@@ -28,6 +28,7 @@
   - Start with a number n.
   - Then with a map that keeps track of the numbers we’ve seen before.
   - Then with a temporary variable that keeps track of the sum of the squares of the digits of n.
+  - Loop while n is not equal to 1 and n is not in the map.
   
 
   */
